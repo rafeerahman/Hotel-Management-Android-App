@@ -10,7 +10,7 @@ Xep!cgamerzX
 Needs Bumblebee 2021.1.1 Beta Branch
 https://developer.android.com/studio/preview
 
-## Phase 2
+## Instructions
 * Sync the project with gradle files (this should be automatic).
 * Ensure you install google play services in the SDK Manager Tools section. This is for the emulator to show google maps.
 ![image](https://user-images.githubusercontent.com/59676643/141866188-2b94d16e-de98-4548-9933-472597ba530f.png)
